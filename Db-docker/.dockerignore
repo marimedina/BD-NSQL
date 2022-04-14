@@ -1,6 +1,0 @@
-.git
-.gitignore
-README.MD
-docker-compose.yml
-node_modules
-npm-debug.log
