@@ -1,3 +1,7 @@
+// -------------------------------------------
+//REVISAR PORQUE EN DOCKER COMPOSE QUEDÓ MAL LA URL EN "VOLUMES" y probablemente no ande
+// -------------------------------------------
+
 var redisClient = require('./bbdd')
 var express = require('express');
 var port = 3000;

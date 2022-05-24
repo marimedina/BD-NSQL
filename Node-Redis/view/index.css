@@ -1,0 +1,61 @@
+header{
+    background-color: cadetblue;
+}
+
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.nombre{
+    color: white;
+}
+
+.container{
+    margin: 50px auto;
+    width: 800px;
+}
+
+.container2{
+    margin: 50px auto;
+    width: 500px;
+}
+
+.table {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+button{
+    background-color: midnightblue;
+    width: 30%;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    display: inline-flex;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.btn-agregar{
+    margin: 10px;
+    margin-left: 350px;
+}
+
+.btn-volver{
+    margin-left: 625px;
+    width: 20%;
+}
+
+.form-label{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+

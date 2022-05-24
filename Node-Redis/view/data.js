@@ -1,10 +1,10 @@
 const personajes = {
-    '1': ['P1E1', 'P2E1'],
-    '2': ['P1E2', 'P2E2'],
-    '3': ['P1E3', 'P2E3'],
-    '4': ['P1E4', 'P2E4'],
-    '5': ['P1E5', 'P2E5'],
-    '6': ['P1E6', 'P2E6'],
-    '7': ['P1E7', 'P2E7'],
-    '8': ['P1E8', 'P2E8'],
+    '1': ['Personaje1 E1', 'Personaje2 E1'],
+    '2': ['Personaje1 E2', 'Personaje2 E2'],
+    '3': ['Personaje1 E3', 'Personaje2 E3'],
+    '4': ['Personaje1 E4', 'Personaje2 E4'],
+    '5': ['Personaje1 E5', 'Personaje2 E5'],
+    '6': ['Personaje1 E6', 'Personaje2 E6'],
+    '7': ['Personaje1 E7', 'Personaje2 E7'],
+    '8': ['Personaje1 E8', 'Personaje2 E8'],
 }
