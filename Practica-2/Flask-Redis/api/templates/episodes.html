@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>The Mandalorian</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+    </head>
+<body>
+    {% include "./partials/header.html" %}
+    <main>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-6">
+                    <div class="row">
+                        <table class="table text-center">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Nombre</th>
+                                    <th scope="col">Estado</th>
+                                    <th scope="col">Operacion</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for episode in episodes %}
+                                <tr>
+                                    <th scope="row">{{ episode['number'] }}</th>
+                                    <td>{{ episode['name'] }}</td>
+                                    <td>{{ episode['status'] }}</td>
+                                    <td>
+                                        <a class="btn btn-primary" style="background-color: #630606; border-color: #630606;" href="/allow/{{ currentSeason }}/{{ episode['number'] }}">Liberar</a>
+                                        <a disabled class="btn btn-primary" style="background-color: #630606; border-color: #630606;" href="/rent/{{ currentSeason }}/{{ episode['number'] }}">Rentar</a>
+                                        <a class="btn btn-primary" style="background-color: #630606; border-color: #630606;" href="/reserve/{{ currentSeason }}/{{ episode['number'] }}">Reservar</a>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
