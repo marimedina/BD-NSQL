@@ -15,13 +15,14 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link" href="/cargar" style="color: white;">Cargar</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/listar" style="color: white;">Mostrar</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/listar" style="color: white;">Listar</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-    <h4>Encuentra los lugares mas cercanos a tu ubicacion:</h4>
+    <div class="container">
+    <h5 style="text-decoration: underline;">Encuentra los lugares mas cercanos a tu ubicacion:</h5>
     <form method="GET" action="/listar">
         <div class="mb-4">
             <label class="label-form">Longuitud</label>
@@ -33,40 +34,41 @@
         </div>
         <button type="submit" class="btn btn-primary" style="background-color: #630606; border: none;">Cargar</button>
     </form>
-    
-    <h4>Cervecerias:</h4>
+    <br/>
+    <h5 style="color: #630606;">Cervecerias:</h5>
     {% for cerveceria in cervecerias %}  
-        <div>
-          <h5>{{cerveceria}}</h5>
-        </div>
+        <ul>
+          <li>{{cerveceria}}</li>
+        </ul>
     {% endfor %}
     
-    <h4>Universidades:</h4>
+    <h5 style="color: #630606;">Universidades:</h5>
     {% for universidad in universidades %}
-        <div>
-          <h5>{{universidad}}</h5>
-        </div>
+        <ul>
+            <li>{{universidad}}</li>
+        </ul>
     {% endfor %}
 
-    <h4>Farmacias:</h4>
+    <h5 style="color: #630606;">Farmacias:</h5>
     {% for farmacia in farmacias %}
-        <div>
-          <h5>{{farmacia}}</h5>
-        </div>
+        <ul>
+            <li>{{farmacia}}</li>
+        </ul>
     {% endfor %}
 
-    <h4>Emergencias:</h4>
+    <h5 style="color: #630606;">Emergencias:</h5>
     {% for emergencia in emergencias %}
-        <div>
-          <h5>{{emergencia}}</h5>
-        </div>
+        <ul>
+            <li>{{emergencia}}</li>
+        </ul>
     {% endfor %}
 
-    <h4>Supermercados:</h4>
+    <h5 style="color: #630606;">Supermercados:</h5>
     {% for supermercado in supermercados %}
-        <div>
-          <h5>{{supermercado}}</h5>
-        </div>
+        <ul>
+            <li>{{supermercado}}</li>
+        </ul>
     {% endfor %}
+    </div>
 </body>
 </html>

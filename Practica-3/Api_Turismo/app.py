@@ -41,10 +41,10 @@ def listar():
         lat = request.args.get('lat')
         if (long != None) and (lat != None):
             cervecerias = conexion.georadius('Cervecerias', long, lat, 5, 'km')
-            universidades = conexion.georadius('Universidades ', long, lat, 5, 'km')
-            farmacias = conexion.georadius('Farmacias ', long, lat, 5, 'km')
-            emergencias = conexion.georadius('Emergencias ', long, lat, 5, 'km')
-            supermercados = conexion.georadius('Supermercados ', long, lat, 5, 'km')
+            universidades = conexion.georadius('Universidades', long, lat, 5, 'km')
+            farmacias = conexion.georadius('Farmacias', long, lat, 5, 'km')
+            emergencias = conexion.georadius('Emergencias', long, lat, 5, 'km')
+            supermercados = conexion.georadius('Supermercados', long, lat, 5, 'km')
     return render_template('./listar.html', cervecerias = cervecerias, universidades = universidades, farmacias = farmacias, emergencias = emergencias, supermercados = supermercados)
 
 if __name__ == "__main__":
