@@ -1,0 +1,401 @@
+[
+{
+    "name" : "batman",
+    "alter" : "bruce wayne",
+    "appearance" : "1939",
+    "house" : "dc",
+    "biography" : "Antes de convertirse en el mejor detective del mundo y cuando aún era un niño, el millonario Bruce Wayne vio morir a sus padres durante un asalto. Este asesinato definió su vida y lo impulsó a convertirse en el arma definitiva contra el crimen: Batman.",
+    "equipment" : "spy equipment",
+    "images" : "4"
+},
+
+{
+    "name" : "superman",
+    "alter" : "clark kent",
+    "appearance" : "1986",
+    "house" : "dc",
+    "biography" : "Superman nació en el planeta Krypton y recibió el nombre de Kal-El al nacer. ... Fue encontrado y adoptado por los agricultores Jonathan y Martha Kent, quienes lo llamaron Clark Kent. Clark desarrolló varias habilidades sobrehumanas, como una fuerza increíble y una piel impermeable.",
+    "equipment" : "",
+    "images" : "3"
+},
+
+{
+    "name" : "green lantern",
+    "alter" : "hal jordan",
+    "appearance" : "1959",
+    "house" : "dc",
+    "biography" : "En 1940, la linterna llegaría a manos de Alan Scott, un joven ingeniero. Tras ser el único superviviente del colapso de un puente de ferrocarril y hallándose al borde de la muerte, la llama enseñaría a Scott cómo fabricar un anillo a partir de su metal, para darle increíbles poderes como el superhéroe Linterna Verde.",
+    "equipment" : "magic ring",
+    "images" : "3"
+},
+
+{
+    "name" : "wonder woman",
+    "alter" : "diana prince",
+    "appearance" : "1941",
+    "house" : "dc",
+    "biography" : "Diana era miembro de una tribu de mujeres llamadas las Amazonas, nativa de Isla Paraíso. Esta era una isla aislada situada en medio de un vasto océano, allí el capitán Steve Trevor tuvo un accidente aéreo donde logró apenas aterrizar su aeronave cerca a la isla, fue encontrado vivo pero inconsciente. Diana lo encontró junto a una compañera amazona. Diana le cuidó hasta que sanó pero terminó enamorándose de él.",
+    "equipment" : "lasso of truth, bracelets",
+    "images" : "2"
+},
+
+{
+    "name" : "aquaman",
+    "alter" : "arthur curry",
+    "appearance" : "1941",
+    "house" : "dc",
+    "biography" : "El Aquaman de la Edad Moderna nace con el nombre de Orin, como hijo de la reina Atlanna y del misterioso hechicero Atlán en la ciudad atlante de Poseidón. ... La única persona que intervino en nombre de Orin fue el Dr. Vulko, un científico que no tenía tolerancia hacia los mitos y las supersticiones.",
+    "equipment" : "trident of neptune",
+    "images" : "3"
+},
+
+{
+    "name" : "nightwing",
+    "alter" : "dick grayson",
+    "appearance" : "1963",
+    "house" : "dc",
+    "biography" : "Nightwing es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por DC Comics. El personaje ha aparecido en varias encarnaciones; la identidad fue adoptada por Dick Grayson cuando se reinventó a sí mismo después de su papel como el compañero justiciero de Batman, Robin.",
+    "equipment" : "spy weapons",
+    "images" : "2"
+},
+
+{
+    "name" : "flash",
+    "alter" : "barry allen",
+    "appearance" : "1956",
+    "house" : "dc",
+    "biography" : "Jay Garrick era un estudiante universitario en 1938 que accidentalmente inhaló vapores de agua pesada después de tomar un descanso para fumar dentro de su laboratorio donde había estado trabajando.18​ Como resultado, descubrió que podía correr a una velocidad sobrehumana y que tenía reflejos igualmente rápidos. Después de una breve carrera como estrella de fútbol americano universitario, se puso una camisa roja con un rayo y un estilizado casco de metal con alas (basado en imágenes de la deidad griega Hermes o Mercurio el dios romano), posterior a eso comenzó a luchar contra el crimen como el Flash. Su primer caso involucró la lucha contra los 'Faultless Four', un grupo de chantajistas.",
+    "equipment" : "",
+    "images" : "2"
+},
+
+{
+    "name" : "lex luthor",
+    "alter" : "lex luthor",
+    "appearance" : "1986",
+    "house" : "dc",
+    "biography" : "Ya sea un científico loco, un hombre de negocios corrupto o ambos, el ego de Luthor es un rasgo definitorio en todas sus encarnaciones; cree que tiene derecho a la popularidad y al poder. Si bien cada encarnación inicialmente quiere la adoración de los demás y el control sobre Smallville o Metrópolis, el objetivo finalmente se eleva al control sobre la Tierra y posiblemente la dominación universal. El otro deseo que rivaliza con este es su obsesión por destruir a Superman y humillar al héroe alienígena, ya sea mostrando su propia superioridad logrando la victoria sin el beneficio de nacer con poder alienígena o demostrando que el Hombre de Acero está motivado por el deseo egoísta en lugar del altruismo.",
+    "equipment" : "",
+    "images" : "2"
+},
+
+{
+    "name" : "joker",
+    "alter" : "joker",
+    "appearance" : "1940",
+    "house" : "dc",
+    "biography" : "El Joker de Tim Burton era un gangster llamado Jack Napier interesado en el arte y la química y que, además, fue el asesino de los padres de Bruce Wayne. El personaje al que dio vida Jack Nicholson obtuvo su aspecto habitual después de caer en un pozo lleno de químicos que altera su rostro y le lleva a la locura.",
+    "equipment" : "",
+    "images" : "2"
+},
+
+{
+    "name" : "green arrow",
+    "alter" : "oliver queen",
+    "appearance" : "1941",
+    "house" : "dc",
+    "biography" : "Cuando el millonario Oliver Queen cayó por la borda de un yate, quedo varado en una isla desierta (Lian Yu) donde fue obligado a aprender a cazar con un arco y flechas para poder sobrevivir. Finalmente se escapó de la isla, descubriendo al llegar a Tierra firme a algunos contrabandistas de drogas a los cuales enfrento y entrego a las autoridades. Cambiado por sus experiencias, decidió devolver algo a la sociedad, de la manera más emocionante posible al convertirse en combatiente del crimen, usando sus habilidades de tiro con arco para el bien.",
+    "equipment" : "bow and arrows",
+    "images" : "2"
+},
+
+{
+    "name" : "martian manhunter",
+    "alter" : "j'onn j'onzz",
+    "appearance" : "1955",
+    "house" : "dc",
+    "biography" : "En su primera historia, J'onn J'onzz es teleportado accidentalmente a la Tierra por el científico conocido como el Dr. Erdel, que, inmediatamente después, sufrió un ataque al corazón y murió, dejando al marciano varado en la Tierra. J'onn es capaz de usar sus poderes para modificar su apariencia, por lo que adopta la identidad del detective de policía John Jones.",
+    "equipment" : "",
+    "images" : "1"
+},
+
+{
+    "name" : "firestorm",
+    "alter" : "ronald raymond",
+    "appearance" : "1978",
+    "house" : "dc",
+    "biography" : "El primer Firestorm está formado por la combinación de Ronnie Raymond y el profesor Martin Stein. Ambos conviven en un mismo cuerpo debido a un accidente nuclear . El cuerpo de Firestorm es el de Ronnie, pues al producirse el accidente, estaba despierto. Mientras tanto, el profesor Stein es una especie de conciencia añadida a la mente de Ronnie. Las conversaciones cómicas entre ambos es lo que más destaca en el personaje. Tras la cancelación de su propia serie tras apenas seis números, Firestorm seguiría haciendo apariciones en cómics de distintos personajes, hasta que por fin obtuvo su serial en complemento a The Flash en 1980.",
+    "equipment" : "",
+    "images" : "2"
+},
+
+{
+    "name" : "doctor fate",
+    "alter" : "doctor fate",
+    "appearance" : "1940",
+    "house" : "dc",
+    "biography" : "Entre estas encarnaciones, Kent Nelson nació en el año de 1929 siendo hijo de Sven Nelson, un arqueólogo y Celestina Babcock Nelson, una medium espiritual. Celestina Nelson murió bajo circunstancias desconocidas poco después del nacimiento de Kent y Kent se convirtió en su compañero de viajes. En 1940, Sven y Kent estaban llevando a cabo una excavación en el Valle de Ur en Mesopotamia en plena Segunda Guerra Mundial, cuando el joven Nelson se topó por casualidad con un antiguo sarcófago que contenía el cuerpo de un ser gigante, denominado, Nabu el Sabio. Al abrir el sarcófago, Nabu fue puesto en libertad de inmediato y la tumba, que poseía una trampa, accidentalmente se activó un gas venenoso que mató al padre de Kent. Nabu, un ser místico de la Orden del planeta Ocilia, tuvo piedad con el joven y utilizó su magia para bloquear el dolor mental con el muchacho.",
+    "equipment" : "",
+    "images" : "1"
+},
+
+{
+    "name" : "shazam",
+    "alter" : "billy baston",
+    "appearance" : "1940",
+    "house" : "dc",
+    "biography" : "William Joseph 'Billy' Batson,90​ es un vendedor de periódicos ​de 12 (más tarde 14) años sin hogar, que duerme en la estación de metro de su ciudad natal (originalmente Nueva York),​ más tarde referido en publicaciones de DC como Fawcett City)93​. Un hombre misterioso con una capa verde le pide a Billy que lo siga hasta la estación de metro. Un vagón de metro mágico pintado en formas y colores inusuales los acompaña a una sala subterránea del trono, habitada por un hombre muy anciano con una larga barba y túnica blanca. A medida que el hombre de verde desaparece, el anciano en el trono le explica a Billy que él es el Mago Shazam, y que ha usado los poderes de 'los dioses'.",
+    "equipment" : "",
+    "images" : "1"
+},
+
+{
+    "name" : "dr manhattan",
+    "alter" : "jonathan ostenson",
+    "appearance" : "1988",
+    "house" : "dc",
+    "biography" : "Su padre era un relojero y Jon planeaba seguir sus pasos. Cuando Estados Unidos lanza la bomba atómica sobre Hiroshima, Jon tenía 16 años. Su padre, enfrentado a los hechos innegables de la teoría de la relatividad, declaró su profesión obsoleta y lanzó las partes mecánicas del reloj con las que trabajaba su hijo por la ventana, incitándolo a estudiar física nuclear. El incidente representó un momento decisivo en el futuro de Jon, volviéndolo un físico nuclear y presagiando la futura percepción que tendría del tiempo como algo predeterminado y todas las cosas dentro de él como determinadas, incluidas sus propias reacciones y emociones.",
+    "equipment" : "",
+    "images" : "2"
+},
+
+{
+    "name" : "metamorfo",
+    "alter" : "rex mason",
+    "appearance" : "1965",
+    "house" : "dc",
+    "biography" : "Rex Mason es un aventurero contratado por el científico y magnate Simon Stagg, dueño de las Empresas Stagg, para recuperar un raro artefacto egipcio, el Orbe de Ra. ​Poco después de contratarlo, Simon Stagg se entera de que Mason ha estado saliendo con su hija, Sapphire Stagg. Este y otros incidentes comienzan a alimentar en Stagg una aversión por Mason que finalmente conduce a un complot para matarlo.",
+    "equipment" : "",
+    "images" : "1"
+},
+
+{
+    "name" : "deathstroke",
+    "alter" : "slade wilson",
+    "appearance" : "1980",
+    "house" : "dc",
+    "biography" : "A los 16 años de edad, Slade Wilson decidió entrar en el ejército, escapó de casa y mintió sobre su edad para poder ser aceptado en el ejército. Pronto mostró un gran talento muy superior al de cualquier otro soldado y fue promovido rápidamente una y otra vez hasta que su excelente reputación lo llevó a ser reconocido por Adeline Kane, una instructora militar, con quien más tarde comenzaría una relación amorosa y con quien se casaría con el tiempo. Poco después del nacimiento de su primer hijo, Grant Wilson, el mismo Slade se ofreció como voluntario para un experimento médico para el ejército diciéndole que era una prueba para defenderse del suero de la verdad (más tarde se revelaría que fue una prueba para crear un proyecto de super-soldados).",
+    "equipment" : "weapons",
+    "images" : "1"
+},
+
+{
+    "name" : "atom",
+    "alter" : "various",
+    "appearance" : "1940",
+    "house" : "dc",
+    "biography" : "Adán Cray, hijo del Senador Cray asesinado, apareció como Atom en las páginas de Escuadrón Suicida #44 creado por John Ostrander (agosto de 1990). Al principio se creía ampliamente que Cray era Ray Palmer suplantado. Realmente Cray había sido reclutado por el propio Palmer, quién falsificó su muerte para aprehender la Escuadra Micro (un grupo de supervillanos que se habían encogido) así como para recolectar una información que destaparía una cábala gubernamental oscura en el que se estaba interesando por el conocimiento de Palmer de las identidades secretas de los otros héroes.",
+    "equipment" : "",
+    "images" : "1"
+},
+
+{
+    "name" : "zatanna",
+    "alter" : "zatana zatara",
+    "appearance" : "1964",
+    "house" : "dc",
+    "biography" : "Zatanna es la hija del mago Giovanni 'John' Zatara que apareció en los cómics de la Edad de Oro y Sindella, un miembro de la especie mística Homo Magi. Su primo menor, el adolescente Zachary Zatara, también es un mago en la DCU. Zatanna se gana la vida como una ilusionista escénica antes de descubrir sus habilidades mágicas mientras investiga la desaparición de su padre después de esa noche, cuando vuelve de una de sus actuaciones. Su traje original se basa en el traje de su padre, pero sustituye las medias de red y los tacones altos por pantalones.",
+    "equipment" : "",
+    "images" : "1"
+},
+
+{
+    "name" : "blue beetle",
+    "alter" : "dan garrett",
+    "appearance" : "1939",
+    "house" : "dc",
+    "biography" : "El primer Blue Beetle se llamaba Dan Garrett y era hijo de un policía muerto. Aparece por primera vez en el n.º 1 de Mystery Men Comics, de 1939. En esta historia crea un traje antibalas y adquiere superfuerza gracias a una vitamina. Este personaje es un investigador muy inteligente. Charlton Comics le da un nuevo origen, convirtiéndolo en un arqueólogo que encuentra un escarabajo egipcio que le otorga superpoderes, tales como la capacidad de volar, superfuerza y luminosidad.",
+    "equipment" : "",
+    "images" : "2"
+},
+
+{
+    "name" : "captain america",
+    "alter" : "steve rogers",
+    "appearance" : "1918",
+    "house" : "marvel",
+    "biography" : "Steven Rogers nació en el Lower East Side de Manhattan, en la ciudad de Nueva York, en 1920, hijo de inmigrantes irlandeses pobres, Sarah y Joseph Rogers. ​Joseph murió cuando Steve era un niño, y Sarah murió de neumonía mientras Steve era un adolescente. A principios de 1940, antes de la entrada de Estados Unidos en la Segunda Guerra Mundial, Rogers es un alto y escuálido estudiante de bellas artes que se especializa en la ilustración y un escritor y artista de cómics.",
+    "equipment" : "shield",
+    "images" : "3"
+},
+
+{
+    "name" : "winter soldier",
+    "alter" : "bucky james",
+    "appearance" : "1917",
+    "house" : "marvel",
+    "biography" : "James Buchanan Barnes nació en Shelbyville, Indiana en 1917. Barnes creció como un mocoso del ejército. Él es un huérfano, hijo de un soldado asesinado en entrenamiento en el Campamento Lehigh del Ejército de los EE. UU. en Virginia justo antes de la entrada de Estados Unidos en la Segunda Guerra Mundial. Como resultado, se une al grupo de militares más como mascota que como un soldado. Apodado 'Bucky', viste un uniforme y se convierte en experto en los pormenores de la vida militar, a pesar de ser un adolescente. Fue en Lehigh que conoció y se hizo amigo del Soldado Steven Rogers, que según todas las apariencias es el más torpe soldado en el campo. Fue al mismo tiempo que ve cómo el entonces misterioso Capitán América comienza a aparecer en revistas de noticias, y Barnes devora con avidez las historias de este nuevo héroe.",
+    "equipment" : "left arm",
+    "images" : "2"
+},
+
+{
+    "name" : "hawkeye",
+    "alter" : "clint barton",
+    "appearance" : "1964",
+    "house" : "marvel",
+    "biography" : "Clint Barton nació en Waverly, Iowa. A una edad joven perdió a sus padres en un accidente automovilístico. Después de seis años en un orfanato, Clint y su hermano Barney se escaparon para unirse al Carnaval Viajero de Maravillas Carson. ​Clint pronto llamó la atención del Espadachín, que tomó al niño como su asistente. Junto con la ayuda de Trick Shot, el espadachín entrenador, Clint decide convertirse en un maestro arquero. ​Clint encontró, más tarde, al espadachín malversando del dinero de la feria. Antes de que pudiera entregar a su mentor a las autoridades, Clint fue golpeado y tomado por muerto, permitiendo que el espadachín escapara de la ciudad. ​La relación de Clint con su hermano Barney y Trick Shot, pronto se deterioró.5",
+    "equipment" : "bow and arrows",
+    "images" : "2"
+},
+
+{
+    "name" : "red skull",
+    "alter" : "johann schmidt",
+    "appearance" : "1941",
+    "house" : "marvel",
+    "biography" : "Johann Schmidt era un exgeneral oficial nazi y confidente de Adolf Hitler. Ha estado íntimamente afiliado con Hydra y es enemigo de S.H.I.E.L.D., Los Vengadores, y otros intereses de los Estados Unidos y el mundo en general. Fue físicamente mejorado al traspasar su cerebro al cuerpo de un clon del Capitán América, que se encuentra en el pináculo de la perfección humana. Estuvo presuntamente muerto en el pasado, solo para regresar al tiempo una y otra vez para plagar el mundo con esquemas de dominación global y genocidio.",
+    "equipment" : "cosmic cube",
+    "images" : "2"
+},
+
+{
+    "name" : "punisher",
+    "alter" : "francis castle",
+    "appearance" : "1974",
+    "house" : "marvel",
+    "biography" : "Frank Castle es un ex marine que tenía una vida ordinaria con su mujer e hijos. Él, su esposa y sus hijos fueron de paseo al Central Park, donde fueron testigos de un golpe de la mafia, por lo tanto los cuatro fueron abatidos por la mafia y él fue el único sobreviviente. Escapó milagrosamente con vida y juró castigar a los responsables. Desde ese momento, Frank Castle se decidió a iniciar una guerra abierta contra el crimen, utilizando para ello métodos que no siempre se encuentran dentro de la ley.",
+    "equipment" : "weapons",
+    "images" : "3"
+},
+
+{
+    "name" : "crossbone",
+    "alter" : "brock rumlow",
+    "appearance" : "1989",
+    "house" : "marvel",
+    "biography" : "El joven Brock Rumlow lideró la banda Crims Savage en el lower east side de Nueva York. Después de que brutalizó a Rachel Leighton de quince años, dos de sus hermanos atacaron a Brock, y el hermano mayor fue asesinado. Rumlow huyó, entrando a la escuela para criminales del Supervisor. En tres años, se convirtió en un instructor allí bajo el nombre de Bingo Brock.",
+    "equipment" : "guns",
+    "images" : "1"
+},
+
+{
+    "name" : "cyclops",
+    "alter" : "scott summers",
+    "appearance" : "1963",
+    "house" : "marvel",
+    "biography" : "Scott Summers nació en Anchorage, Alaska. Es el hijo mayor del Capitán USAF Christopher Summers y de su esposa Katherine Anne. Tuvo un hermano menor llamado Alexander. Cierto día, cuando Scott tenía 10 años de edad, el Capitán Summers llevó a su familia en un vuelo en su De Havilland Mosquito. El avión fue atacado por una nave extraterrestre Shi'ar. A medida que el avión caía en llamas, los padres de Scott lo empujaron junto a su hermano Alex en el único paracaídas que había en el avión. Por desgracia, el paracaídas fue incendiado con una chispa de la nave espacial y el aterrizaje de los hermanos Summers fue fatal. Ambos quedaron heridos, principalmente Scott, quién recibió un golpe muy fuerte en la cabeza.",
+    "equipment" : "laser eyes",
+    "images" : "3"
+},
+
+{
+    "name" : "wolverine",
+    "alter" : "james logan",
+    "appearance" : "1974",
+    "house" : "marvel",
+    "biography" : "El linaje de los Hudson, una antigua y honorable familia de Canadá, desciende de una sub-raza humana evolucionada a partir de los lobos, conocidos como los Lupinos. El Supremo Líder de los Lupinos, conocido solo como Romulus, mostró un muy particular interés por James, el descendiente más joven del matrimonio formado por Elizabeth Hudson y John Howlett, manipulando su vida de diversas formas desde su nacimiento.",
+    "equipment" : "adamantium claws",
+    "images" : "3"
+},
+
+{
+    "name" : "spider-man",
+    "alter" : "peter parker",
+    "appearance" : "1962",
+    "house" : "marvel",
+    "biography" : "",
+    "equipment" : "arachnid powers",
+    "images" : "3"
+},
+
+{
+    "name" : "iron man",
+    "alter" : "tony stark",
+    "appearance" : "1963",
+    "house" : "marvel",
+    "biography" : "En Forest Hills, Queens, Nueva York, ​el estudiante de la Escuela Midtown High, Peter Benjamin Parker es un científico huérfano que vive con su tío Ben y su tía May. Como se describe en Amazing Fantasy # 15 (agosto de 1962), es mordido por una araña radioactiva (erróneamente clasificada como un insecto en el panel) en una exhibición de ciencias y 'adquiere la agilidad y la fuerza proporcional de un arácnido'. ​Junto con la súper fuerza, Parker gana la capacidad de adherirse a paredes y techos. A través de su habilidad nativa para la ciencia, desarrolla un dispositivo que le permite disparar cintas adhesivas de su propio diseño a través de pequeños barriles montados en la muñeca. Inicialmente buscando capitalizar sus nuevas habilidades, Parker se pone un disfraz y, como 'Spider-Man', se convierte en una estrella de televisión novedosa. Sin embargo, 'ignora alegremente la posibilidad de detener a un ladrón que huye, y su indiferencia irónicamente lo alcanza cuando el mismo delincuente más tarde roba y mata a su tío Ben'. Spider-Man rastrea y domina al asesino y aprende, en la penúltima leyenda de la historia, 'con gran poder también debe haber una gran responsabilidad'.",
+    "equipment" : "robotic armor",
+    "images" : "3"
+},
+
+{
+    "name" : "hulk",
+    "alter" : "bruce banner",
+    "appearance" : "1962",
+    "house" : "marvel",
+    "biography" : "Durante la detonación experimental de una bomba gamma, el científico Bruce Banner salva al adolescente Rick Jones, que ha conducido al campo de pruebas; Banner empuja a Jones a una trinchera para salvarlo, pero es golpeado por la explosión, absorbiendo enormes cantidades de radiación gamma. Despierta más tarde, aparentemente ileso, pero esa noche se transforma en una forma gris y pesada. Un soldado perseguidor llama a la criatura 'Hulk'. Originalmente, se creía que las transformaciones de Banner en Hulk se debían a la puesta del sol y se deshacían al amanecer, pero más tarde, después de que Rick vio a Banner convertirse en Hulk durante el día, luego de un intento fallido de los hombres de Ross de lanzar a Hulk al espacio, fue descubierto para ser causado por la ira. Banner fue curado en El Increíble Hulk # 4, pero optó por restaurar los poderes de Hulk con la inteligencia de Banner. La máquina de rayos gamma necesitaba afectar los efectos secundarios inducidos por la transformación que hicieron que Banner se enfermara temporalmente y volviera a su estado normal.",
+    "equipment" : "he",
+    "images" : "1"
+},
+
+{
+    "name" : "loki",
+    "alter" : "loki lafeyston",
+    "appearance" : "1962",
+    "house" : "marvel",
+    "biography" : "Hace muchos años, Bor, gobernante de Asgard, estaba luchando contra los Gigantes de hielo, siguió a un gigante herido hasta un poderoso hechicero que lo estaba esperando. El hechicero lo atrapó sin darse cuenta, convirtiendo a Bor en nieve. Al maldecir a su hijo, Odín, llevó a los Asgardianos a la batalla contra los Gigantes de Escarcha y mató a Laufey, quien era el rey, en combate personal. Odín encontró un pequeño niño del tamaño de un Asgardiano, escondido dentro de la fortaleza principal de los Gigantes de hielo. El niño era Loki y Laufey lo había mantenido oculto a su gente debido a su vergüenza por el tamaño pequeño de su hijo. Odín tomó al niño, por una combinación de lástima, para apaciguar a su padre, y porque él era el hijo de un digno adversario asesinado en un combate honorable, y lo crio como su hijo junto a su hijo biológico thor, loki es considerado el dios de la trampa y de las mentiras, sus habilidades son: teletransportación, teleqinesis, cambio de forma, y la más poderosa, el poder de hipnotizar a la gente a su gusto para obligarlos a hacer cosas malas y macabras para lograr sus metas.",
+    "equipment" : "laevatein",
+    "images" : "2"
+},
+
+{
+    "name" : "thor",
+    "alter" : "thor odinson",
+    "appearance" : "1962",
+    "house" : "marvel",
+    "biography" : "El padre de Thor, Odín, decide que su hijo necesita que le enseñe la humildad y, en consecuencia, coloca a Thor (sin recuerdos de la divinidad) en el cuerpo y los recuerdos de un estudiante de medicina humana existente, parcialmente discapacitado, Donald Blake. Después de convertirse en médico y de vacaciones en Noruega, Blake presencia la llegada de una partida de exploración alienígena. Blake huye de los extraterrestres a una cueva. Después de descubrir el martillo de Thor, Mjolnir (disfrazado como un bastón) y golpearlo contra una roca, se transforma en el dios del trueno.",
+    "equipment" : "mjolnir, stormbreaker",
+    "images" : "1"
+},
+
+{
+    "name" : "groot",
+    "alter" : "groot",
+    "appearance" : "1960",
+    "house" : "marvel",
+    "biography" : "Groot es una monstruosa planta extraterrestre que, inicialmente, llegó a la Tierra en busca de humanos para estudiarlos y experimentar. Sin embargo, fue aparentemente destruido por las termitas utilizadas por Leslie Evans. Xemnu hizo un duplicado de Groot, que utilizó para atacar a Hulk. Sin embargo, Hulk lo destruyó en la batalla. Groot fue revelado más adelante de haber sobrevivido, pero era un cautivo del Coleccionista y llevado a cabo en su parque zoológico en Canadá, hasta que Groot y las otras criaturas cautivas fueron liberadas por el Hombre Topo. Groot y las otras criaturas hicieron estragos en la ciudad de Nueva York hasta que fueron detenidos por una banda de superhéroes, y luego fueron arrojados a través de un portal a la Zona Negativa.",
+    "equipment" : "",
+    "images" : "2"
+},
+
+{
+    "name" : "deadpool",
+    "alter" : "wade wilson",
+    "appearance" : "1991",
+    "house" : "marvel",
+    "biography" : "La historia de fondo del personaje ha sido presentada como vago y está sujeto a cambios, y dentro de la narración no puede recordar su historia personal debido a una condición mental. Si su nombre era o no Wade Wilson está sujeto a especulaciones ya que uno de sus enemigos, T-Ray, afirma en Deadpool # 33 que él es el verdadero Wade Wilson y que Deadpool es un asesino cruel que le robó su identidad. Ha habido otras historias dudosas sobre su historia, en un momento el supervillano Loki afirmó ser su padre. Con frecuencia, las revelaciones son reconectadas más tarde o ignoradas por completo, y en un tema, el propio Deadpool bromeó que si Wade Wilson es o no realmente depende de qué escritor prefiera el lector.",
+    "equipment" : "weapons",
+    "images" : "3"
+},
+
+{
+    "name" : "iron fists",
+    "alter" : "daniel rand",
+    "appearance" : "1974",
+    "house" : "marvel",
+    "biography" : "Daniel Rand nació en la ciudad de Nueva York. Su padre, Wendell Rand, cuando era un niño pasó por la mística ciudad de K'un-L'un. Durante su tiempo en K'un L'un, Wendell salvó la vida del gobernante de la ciudad, Lord Tuan, y fue adoptado como el hijo de Tuan. Sin embargo, Wendell eventualmente dejó K'un L'un y se convirtió en un rico empresario en los Estados Unidos. Se casó con la mujer de la alta sociedad Heather Duncan y tuvo un hijo: Daniel.",
+    "equipment" : "",
+    "images" : "3"
+},
+
+{
+    "name" : "captain marvel",
+    "alter" : "caron danvers",
+    "appearance" : "1967",
+    "house" : "marvel",
+    "biography" : "Carol Susan Jane Danvers comenzó su carrera en la fuerza aérea de Estados Unidos y llegó hasta el puesto de jefe de seguridad de Cabo Cañaveral. Allí se vio relacionada con el Capitán Marvel, un soldado Kree que desertaría de sus funciones para proteger a la Tierra de su propio mundo. Una pelea entre Mar-Vell y el comandante Yon-Rogg terminó con la explosión de un arma Kree, que afectó a Carol. La radiación modificó su estructura genética y la convirtió en un híbrido humano-kree de enormes poderes. Entonces asumió la identidad de Ms. Marvel, con un traje similar al del propio Capitán Marvel, que pronto cambió por uno negro. Trabajó varias veces con los Vengadores y finalmente se unió a ellos cuando la Bruja Escarlata se ausentó.",
+    "equipment" : "",
+    "images" : "2"
+},
+
+{
+    "name" : "galactus",
+    "alter" : "galactus",
+    "appearance" : "1966",
+    "house" : "marvel",
+    "biography" : "Galactus se llamaba originalmente Galan, un humanoide nacido en el planeta Taa, un paraíso como mundo cuya civilización habría sido la más avanzada de cualquiera de los universos conocidos. Sin embargo, su mundo estaba al borde del colapso debido a una hipotética gran implosión. Antes de esto, Galan descubrió que la plaga entrópica amenazaba a Taa; aunque en un principio dudó de su descubrimiento, pronto se demostró con la destrucción de las civilizaciones cercanas a Taa. A pesar de los esfuerzos de los mejores científicos de Taa, no pudieron encontrar una cura y las radiaciones entrópicas comenzaron a hacer estragos en su población.",
+    "equipment" : "ultimate nullifier",
+    "images" : "2"
+},
+
+{
+    "name" : "dr strange",
+    "alter" : "stephen strange",
+    "appearance" : "1963",
+    "house" : "marvel",
+    "biography" : "Stephen Strange es un médico especializado en neurocirugía, codicioso y egocéntrico, que solo se preocupa por la riqueza de su carrera, hasta que en un accidente sufrió una enfermedad nerviosa en sus manos que le obligó a retirarse. Cuando su padre murió, su hermano fue a visitarlo para recriminarle que no fue al funeral ese día. Stephen estaba con una chica, por lo que su hermano salió enfadado. Estaba nevando esa noche y hubo un accidente en el cual su hermano murió al ser atropellado. Stephen hizo que su cadáver fuera criogenizado hasta el día en que la ciencia lo pudiera revivir.",
+    "equipment" : "",
+    "images" : "2"
+},
+
+{
+    "name" : "black widow",
+    "alter" : "natasha romanoff",
+    "appearance" : "1964",
+    "house" : "marvel",
+    "biography" : "Natasha nació en Stalingrado (ahora Volgogrado), Rusia. La primera y más conocida Viuda Negra, es una agente rusa entrenada como espía, artista marcial y francotiradora, y equipada con un arsenal de armas de alta tecnología, que incluye un par de armas energéticas montadas en la muñeca y apodada 'Piquete de la Viuda'. No usa traje durante sus primeras apariciones, sino simplemente ropa de noche y un velo. Romanova eventualmente deserta a Estados Unidos por razones que incluyen su amor por el arquero criminal convertido en superhéroe, Hawkeye.",
+    "equipment" : "spy equipment",
+    "images" : "2"
+}
+]
